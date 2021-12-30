@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @DQuyentran
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+DQuyentran/DQuyentran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+lập trình
+hệ thống thông tin quản lý
+facebook:https://www.facebook.com/quyen.dieu.583234/
